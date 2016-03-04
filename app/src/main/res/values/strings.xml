@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Album Image</string>
+    <string name="action_settings">Settings</string>
+    <string name="contentDescriptionContent">image with data</string>
+</resources>
