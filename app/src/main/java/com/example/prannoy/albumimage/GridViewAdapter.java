@@ -48,7 +48,7 @@ public class GridViewAdapter extends ArrayAdapter {
         Bitmap img=(Bitmap)getItem(position);
         holder.imgholder.setImageBitmap(img);
 
-
+        int a=1;
 
         return row;
     }
